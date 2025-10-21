@@ -13,7 +13,8 @@ Librerías utilizadas:
 Pre-requisitos Java v1.8 update 151 o superior y JDK (variables de entorno configuradas) Eclipse IDE (Oxigen o Neon) o IntelliJ IDEA (2019.1) Gradle v4.10.2 o superior Cucumber Instalación.
 navegador firefox.
 comando para clonar este repositorio localmente:
-se debe ejecutar el siguiente comando: git clone https://github.com/deisy0820/DXHotel.git
+se debe ejecutar el siguiente comando: git clone https://github.com/deisy0820/Automatizacion_patron_screenplay.git
+se debe ejecutar el siguiente comando: git clone 
 Importar el proyecto desde Eclipse o IntelliJ IDE.
 
 linea de comando para ejecutar por consola: gradle test
